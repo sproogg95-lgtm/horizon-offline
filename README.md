@@ -251,4 +251,4 @@ here.
 
 - **Horizon** — the game and launcher, by [Ludovic Marie](https://github.com/ludovic111) and
   contributors: [github.com/horizon-rust/horizon](https://github.com/horizon-rust/horizon).
-[![Made with TypeScript](https://shields.io)](https://typescriptlang.org)
+![Maker](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-Sabit-cyan)
