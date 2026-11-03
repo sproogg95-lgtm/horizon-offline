@@ -246,9 +246,8 @@ project. "Minecraft" is a trademark of Mojang and Microsoft. Horizon is an unoff
 ([github.com/horizon-rust](https://github.com/horizon-rust/horizon), [playhorizon.dev](https://playhorizon.dev)).
 This repository contains no Mojang code, assets or data. Its license (MIT) covers only the code
 here.
-
 ## Credits
 
 - **Horizon** — the game and launcher, by [Ludovic Marie](https://github.com/ludovic111) and
   contributors: [github.com/horizon-rust/horizon](https://github.com/horizon-rust/horizon).
-- **This wrapper** — built for playing offline; PRs welcome.
+[![me]((https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-Sabit-cyan))]
